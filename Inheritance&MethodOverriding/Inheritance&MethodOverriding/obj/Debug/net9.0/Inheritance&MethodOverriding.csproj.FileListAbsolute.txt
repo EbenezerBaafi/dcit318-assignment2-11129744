@@ -1,0 +1,15 @@
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\bin\Debug\net9.0\Inheritance&MethodOverriding.exe
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\bin\Debug\net9.0\Inheritance&MethodOverriding.deps.json
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\bin\Debug\net9.0\Inheritance&MethodOverriding.runtimeconfig.json
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\bin\Debug\net9.0\Inheritance&MethodOverriding.dll
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\bin\Debug\net9.0\Inheritance&MethodOverriding.pdb
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\net9.0\Inheritance&MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\net9.0\Inheritance&MethodOverriding.AssemblyInfoInputs.cache
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\net9.0\Inheritance&MethodOverriding.AssemblyInfo.cs
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\net9.0\Inheritance&MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\net9.0\Inheritance&MethodOverriding.sourcelink.json
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\net9.0\Inheritance&MethodOverriding.dll
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\net9.0\refint\Inheritance&MethodOverriding.dll
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\net9.0\Inheritance&MethodOverriding.pdb
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\net9.0\Inheritance&MethodOverriding.genruntimeconfig.cache
+C:\Users\GADGET STORE\source\repos\Inheritance&MethodOverriding\Inheritance&MethodOverriding\obj\Debug\net9.0\ref\Inheritance&MethodOverriding.dll
