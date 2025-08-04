@@ -1,0 +1,15 @@
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.exe
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.deps.json
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.runtimeconfig.json
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.dll
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\bin\Debug\net9.0\AbstractClassesAndMethods.pdb
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.AssemblyInfoInputs.cache
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.AssemblyInfo.cs
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.sourcelink.json
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.dll
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net9.0\refint\AbstractClassesAndMethods.dll
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.pdb
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net9.0\AbstractClassesAndMethods.genruntimeconfig.cache
+C:\Users\GADGET STORE\source\repos\AbstractClassesAndMethods\AbstractClassesAndMethods\obj\Debug\net9.0\ref\AbstractClassesAndMethods.dll
